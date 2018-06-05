@@ -1,15 +1,16 @@
 # Associations
 # comment out the urls if you do not wish to display them
 
-- organization: Atlants's ConnectHome
+- organization: Harvard ABCD
   role: Volunteer
-  year: 2016 &mdash; Present
-  url: http://connecthome.atlantaga.gov/
-  summary: Developed and delivered a Git and GitHub training for secondary education students that created a resume that could use after finishing school.
+  year: 2013 &mdash; Present
+  url: https://www.abcd.harvard.edu/
+  url: https://lma.abcd.harvard.edu/
+  summary: Co-Chair of the Harvard ABCD Technical meetups group for the Longwood Medical Area & Member of the main ABCD Steering Committee at Harvard University.
 
 
-- organization: freeCodeCamp
+- organization: Boston Python
   role: Contributor
-  year: 2015 &mdash; Present
-  url: https://www.freecodecamp.org/
-  summary: Contributor to the Git, GraphQL, and CSS content found in the freeCodeCamp curriculum.
+  year: 2014 &mdash; Present
+  url: https://www.meetup.com/bostonpython/
+  summary: Co-organizer and maintainer of the @bostonpython Twitter feed.

@@ -1,17 +1,17 @@
 # Jobs
 # Trainer
-- company: GitHub, Inc.
-  position: GitHub Trainer
-  duration: March, 2012 &mdash; Present
-  summary: Teach all things Git, give away all the stickers, ensure world peace.
+- company: Harvard Medical School
+  position: Team Lead & Scientific Web Services Developer
+  duration: 2012 &mdash; Present
+  summary: Started as a Senior Developer, became the Lead of the team responsible for OSG HPC Cluster Infrastructure & DevOps responsible for Harvard’s CMCD Infrastructure.
 # Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
+- company: Boston University
+  position: Chemical Computing Administrator 
+  duration: 2009 &mdash; 2012
+  summary: As the primary engineer at the CMLD specified, built & managed the IT Infrastructure for the CMLD providing services for the Research Center and The Department of Chemistry.
 # Supportocat
-- company: GitHub, Inc.
-  position: Supportocat, GitHub for Business
-  duration:  June 2016 &mdash; Present
-  summary: Provide world class support to customers on the GitHub for Business platform
+- company: Fidelity Investments
+  position: Senior Software Engineer
+  duration: 2001 &mdash; 2009
+  summary: Started as a Intern rapidly promoted to Associate Software Engineer, Software Engineer, and eventually Senior Software Engineer. Responsible for promoting & facilitating Linux usage & Java/J2EE Performance on Linux/UNIX platforms. Involved in porting native C & C++ applications to Linux. 
 
